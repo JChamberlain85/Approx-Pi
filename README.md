@@ -7,6 +7,14 @@ The actual area of the triangle is known to be half that of the square, which ca
 
 ---
 
+## Experimental Data:
+
+![Table 1](images/table-1.png "Table 1")
+
+![Table 1](images/table-2.png "Table 2")
+
+---
+
 ## Analysis
 - **Accuracy**: The model proved to be fairly accurate. Testing revealed a slight bias toward underestimating the triangle's area, with an average error margin of –0.447%. However, this finding is based on a limited sample size and is not definitive.
   
